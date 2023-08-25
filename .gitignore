@@ -1,0 +1,6 @@
+*.png
+*.gif
+.vscode
+*.bson
+.DS_Store
+
